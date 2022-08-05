@@ -1,11 +1,12 @@
-### Hey, I'm Matheus Araujo
+### Hey, I'm Matheus Araujo 😁😁😁
 
 
-- 🔭 Brazilian, 20 years old.
-- 🌱 I’m currently studying web development in both ways: Front-end | Back-end
-- 👯 I'm studying a little bit more about Typescript. 
-- 🤔 I really love to learn new things about web development with people more experienced!
-- ⚡ Fun fact: Gastronomic, Wine, Soccer and Finance enthusiast!
+🔭 Brazilian, 20 years old.
+🌱 I’m currently studying web development in both ways: Front-end | Back-end
+👯 I'm studying a little bit more about Typescript. 
+🤔 I really love to learn new things about web development with people more experienced!
+⚡ Fun fact: Gastronomic, Wine, Soccer💚❤️ and Finance enthusiast!
+🗺️ Portuguese - English - French
 
 <div align="center">
   <a href="https://github.com/matheusarjc">
