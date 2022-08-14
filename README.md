@@ -3,8 +3,7 @@
 ##
 
 - 🧑🏻‍💻 Brazilian, 20 years old.
-- ✌️ I’m currently studying web development in both ways: Front-end | Back-end
-- 📖 I'm studying a little bit more about Typescript. 
+- ✌️ Interested in Front-end tools and techs. 
 - ❤️ I really love to learn new things about web development with people more experienced!
 - ⚡ Fun fact: Gastronomic, Wine, Soccer💚❤️, Surf and Finance enthusiast!
 - 🗺️ Portuguese - English - French
