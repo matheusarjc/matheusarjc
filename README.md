@@ -34,5 +34,3 @@
 ![Snake animation](https://github.com/matheusarjc/matheusarjc/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
