@@ -2,10 +2,8 @@
 
 ##
 
-- 🧑🏻‍💻 Brazilian, 20 years old.
-- ✌️ Interested in Front-end tools and techs. 
-- ❤️ I really love to learn new things about web development with people more experienced!
-- ⚡ Fun fact: Gastronomic, Wine, Soccer💚❤️, Surf and Finance enthusiast!
+- 🧑🏻‍💻 Brazilian, 21 years old.
+- ✌️ Interested in Data Science and techs. 
 - 🗺️ Portuguese - English - French
 ##
 
