@@ -3,7 +3,7 @@
 ##
 
 - 🧑🏻‍💻 Brazilian, 21 years old.
-- ✌️ Interested in Data Science and techs. 
+- ✌️ Interested in Data Science and Machine Learning. 
 - 🗺️ Portuguese - English - French
 ##
 
