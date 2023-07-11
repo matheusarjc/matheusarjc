@@ -111,6 +111,6 @@
     </ul>
 </details>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusarjc&show_icons=true&locale=en&layout=compact" alt="matheusarjc" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusarjc&" alt="matheusarjc" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matheusarjc&theme=transparent&hide_border=true&border_radius=5&card_width=520&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats" alt="matheusarjc" /></p>
 
 ![Snake animation](https://github.com/matheusarjc/matheusarjc/blob/output/github-contribution-grid-snake.svg)
