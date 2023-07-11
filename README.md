@@ -9,7 +9,7 @@
 
 - 📝 Usually I put some reports on [https://github.com/matheusarjc/Relatorios-Reports](https://github.com/matheusarjc/Relatorios-Reports)
 
-- 💬 Ask me about **Python, Excel, Power BI, SQL, HTMl, CSS, JavaScript, NodeJS and Liquid**
+- 💬 Ask me about **Python, Excel, Power BI, SQL, HTML, CSS, JavaScript, NodeJS and Liquid**
 
 - 📫 How to reach me **adsmatheus123@gmail.com**
 
