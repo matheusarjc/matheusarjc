@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Araujo</h1>
-<h3 align="center">A passionate Python Developer for Machine Learning and Data Science</h3>
+<h3 align="center">A passionate FullStack Developer</h3>
 
 - 🔭 I’m currently working on [Machine Learning Projects](https://github.com/matheusarjc/ml-guide-projects)
 
-- 🌱 I’m currently learning **Django, Flask, Tableau, MongoDB**
+- 🌱 I’m currently learning **Django and MongoDB**
 
 - 👯 I also share content on Threads and LinkedIn [Threads](https://www.threads.net/@matheusarjc)
 
