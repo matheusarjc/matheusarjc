@@ -48,6 +48,7 @@
   <summary>Backend Development</summary>
     <ul>
       <li><h5>NodeJS</h5></li>
+      <li><h5>Fastify</h5></li>
       <li><h5>Express</h5></li>
       <li><h5>GraphQL</h5></li>
       <li><h5>PrismaIO</h5></li>
