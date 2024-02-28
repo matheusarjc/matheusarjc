@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Araujo</h1>
 <h3 align="center">Remodeling my portfolio</h3>
 
-- 🔭 I’m currently working on [Machine Learning Projects](https://github.com/matheusarjc/ml-guide-projects)
+- 🔭 I’m currently working on [Portfolio](https://github.com/matheusarjc/Portfolio)
 
 - 🌱 I’m currently learning **Angular | Docker | Kubernets**
 
@@ -17,96 +17,7 @@
 <a href="https://instagram.com/https://www.instagram.com/matheusarjc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/matheusarjc/" height="30" width="40" /></a>
 </p>
 
----
-<h3 align="left">Technologies:</h3>
-<details>
-  <summary>Languages</summary>
-    <ul>
-      <li><h5>Python</h5></li>
-      <li><h5>JavaScript</h5></li>
-      <li><h5>TypeScript</h5></li>
-      <li><h5>Liquid</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Frontend Development</summary>
-    <ul>
-      <li><h5>HTML</h5></li>
-      <li><h5>CSS</h5></li>
-      <li><h5>Bootstrap</h5></li>
-      <li><h5>Sass</h5></li>
-      <li><h5>Tailwind</h5></li>
-      <li><h5>Styled-components</h5></li>
-      <li><h5>Redux</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Backend Development</summary>
-    <ul>
-      <li><h5>NodeJS</h5></li>
-      <li><h5>Fastify</h5></li>
-      <li><h5>Express</h5></li>
-      <li><h5>GraphQL</h5></li>
-      <li><h5>PrismaIO</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Database</summary>
-    <ul>
-      <li><h5>MongoDB</h5></li>
-      <li><h5>MySQL</h5></li>
-      <li><h5>SQLite</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>AI/ML</summary>
-    <ul>
-      <li><h5>Tensorflow</h5></li>
-      <li><h5>Pytorch</h5></li>
-      <li><h5>Pandas</h5></li>
-      <li><h5>Seaborn</h5></li>
-      <li><h5>OpenCV</h5></li>
-      <li><h5>Scikit_learn</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Data Visualization</summary>
-    <ul>
-      <li><h5>ChartJS</h5></li>
-      <li><h5>CanvasJS</h5></li>
-      <li><h5>KIBANA</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>BaaS</summary>
-    <ul>
-      <li><h5>Firebase</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Framework</summary>
-    <ul>
-      <li><h5>Django</h5></li>
-      <li><h5>Flask</h5></li>
-      <li><h5>React</h5></li>
-      <li><h5>Electron</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Software</summary>
-    <ul>
-      <li><h5>Visual Studio Code</h5></li>
-      <li><h5>PyCharm</h5></li>
-      <li><h5>Figma</h5></li>
-    </ul>
-</details>
-<details>
-  <summary>Others</summary>
-    <ul>
-      <li><h5>Git</h5></li>
-      <li><h5>Arduino</h5></li>
-    </ul>
-</details>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=matheusarjc&theme=transparent&hide_border=true&border_radius=5&card_width=620&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats" alt="matheusarjc" /></p>
 
