@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Araujo</h1>
-<h3 align="center">A passionate FullStack Developer</h3>
+<h3 align="center">Remodeling my portfolio</h3>
 
 - 🔭 I’m currently working on [Machine Learning Projects](https://github.com/matheusarjc/ml-guide-projects)
 
-- 🌱 I’m currently learning **Django and MongoDB**
+- 🌱 I’m currently learning **Angular | Docker | Kubernets**
 
-- 👯 I also share content on Threads and LinkedIn [Threads](https://www.threads.net/@matheusarjc)
-
-- 📝 Usually I put some reports on [https://github.com/matheusarjc/Relatorios-Reports](https://github.com/matheusarjc/Relatorios-Reports)
-
-- 💬 Ask me about **Python, Excel, Power BI, SQL, HTML, CSS, JavaScript, NodeJS and Liquid**
+- 💬 Ask me about **Python | Node | Typescript | Javascript | Java | Spring Boot | SQL | React**
 
 - 📫 How to reach me **adsmatheus123@gmail.com**
 
