@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/matheusarjc/Portfolio)
 
-- 🌱 I’m currently learning **Angular | Docker | Kubernets**
+- 🌱 I’m currently working as a Software Engineer (Freelancer) and CEO in @Skoolab
 
-- 💬 Ask me about **Python | Node | Typescript | Javascript | Java | Spring Boot | SQL | React**
+- 💬 Ask me about **Python | Node | Typescript | Javascript | Java | Spring Boot | Next | React**
 
 - 📫 How to reach me **adsmatheus123@gmail.com**
 
