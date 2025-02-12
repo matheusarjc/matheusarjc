@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/matheusarjc/Portfolio)
 
-- 🌱 I’m currently working as a Software Engineer (Freelancer) and CEO in @Skoolab
+- 🌱 I’m currently working as a Software Engineer (Freelancer) and CEO at @Skoolab
 
 - 💬 Ask me about **Python | Node | Typescript | Javascript | Java | Spring Boot | Next | React**
 
