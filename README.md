@@ -276,7 +276,7 @@ Não acredito em carreira baseada apenas em cargos. Acredito em repertório, ent
 
 Se você se interessa por produto, tecnologia, negócios digitais, SaaS, experiência do usuário ou construção de soluções com impacto real, fique à vontade para se conectar comigo.
 
-* LinkedIn: [(https://www.linkedin.com/in/matheusarjc/)]
+* LinkedIn: (https://www.linkedin.com/in/matheusarjc/)
 * E-mail: [adsmatheus123@gmail.com]
 
 ---
